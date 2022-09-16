@@ -1,0 +1,7 @@
+1) Explique com suas palavras o que seria o limite W.I.P. no Kanban.
+Dica: se precisar relembrar, vale uma pesquisa no Google ;-)
+Resp.: Work in Progress.
+
+2) 2) Informe qual comando git gera um 'pacote' de alterações feitas no repositório, contendo arquivos alterados, autor e uma mensagem de resumo. 
+Resp.: git commit
+
