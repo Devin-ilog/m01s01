@@ -20,7 +20,7 @@ public class Principal {
         String retorno = gatoObjeto.andar();
         System.out.println(retorno);
 
-        System.out.println( gatoObjeto );
+        System.out.println("Usando toString: " + gatoObjeto );
 
         // usando outra classe de exemplo:
 

@@ -11,8 +11,12 @@ public class Gato {
         return "estou andando";
     }
 
+    @Override
     public String toString() {
-        return "O gato é: " + nome + ", " + idade;
+        return "Gato{" +
+                "nome='" + nome + "'" +
+                ", idade=" + idade +
+                '}';
     }
 
 }
